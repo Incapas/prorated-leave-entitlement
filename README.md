@@ -111,6 +111,10 @@ Réalisation sous la direction du développeur :
 
 Chaque modification a été relue et validée par le développeur avant intégration.
 
+## URL de production
+
+https://prorated-leave-entitlement-kdybcszdhrvdtzvm7biuub.streamlit.app/calculator
+
 ## Licence
 
 GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
